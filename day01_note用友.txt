@@ -1,0 +1,65 @@
+
+ 数据结构 数据库 算法 计算机网络
+
+ 计算机软件等级考试（软件）
+ C --> C++ （QT）-->  C#
+		C	(物联网)
+		(C++)QT	(桌面版程序)
+		Java    (大型项目(12306,工商网银,金融,保险,电信行业))
+		PHP	(小型网站开发(淘宝，京东))
+		webui	(前端界面开发)
+		云计算  (Java,算法,数学,数据结构)
+		京东	(衬衫)
+	====================
+		android	(安卓手机端开发)
+		ios	（苹果手机端）
+
+		技术	？
+		非技术	？
+		400
+		14000
+		MBA(腾讯)
+
+
+		
+1. java环境搭建
+   1)获取jdk(java开发工具集)
+     jre(java运行时环境)
+     jvm(java虚拟机)
+   2)安装
+   3)配置环境变量
+     path： 编辑-追加;C:\Program Files\Java\jdk1.7.0_67\bin
+     CLASSPATH .
+     JAVA_HOME:C:\Program Files\Java\jdk1.7.0_67
+
+2. java的特性
+   1) 一处编译，到处运行（兼容性好）
+    window unix linux android ios...
+
+3. java使用
+   命令行中使用
+    
+   1)编写代码（记事本,editplus,notepad++）
+     Hello.java
+   2)编译代码(javac.exe)
+     Hello.java -> Hello.class
+   3)运行代码(java.exe)
+     Hello.class 运行起来
+
+
+4. DOS命令
+   dir  查看当前文件结构
+   cls  清屏
+   cd 目录
+      . 当前目录
+      ..返回上一级目录
+      / 根目录
+
+
+
+
+
+
+
+
+
